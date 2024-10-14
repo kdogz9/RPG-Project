@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\2401317\\Dice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5B676CAA-846D-7049-4955-D240D4DD41E4}|Assembly-CSharp.csproj|c:\\users\\2401317\\dice\\assets\\scripts\\playername.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B676CAA-846D-7049-4955-D240D4DD41E4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playername.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B676CAA-846D-7049-4955-D240D4DD41E4}|Assembly-CSharp.csproj|c:\\users\\2401317\\dice\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B676CAA-846D-7049-4955-D240D4DD41E4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B676CAA-846D-7049-4955-D240D4DD41E4}|Assembly-CSharp.csproj|C:\\Users\\2401317\\Dice\\assets\\scripts\\dice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B676CAA-846D-7049-4955-D240D4DD41E4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\dice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerName.cs",
+              "DocumentMoniker": "C:\\Users\\2401317\\Dice\\Assets\\Scripts\\PlayerName.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerName.cs",
+              "ToolTip": "C:\\Users\\2401317\\Dice\\Assets\\Scripts\\PlayerName.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerName.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T14:16:47.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\2401317\\Dice\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
+              "ToolTip": "C:\\Users\\2401317\\Dice\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T14:06:42.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dice.cs",
+              "DocumentMoniker": "C:\\Users\\2401317\\Dice\\Assets\\Scripts\\Dice.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Dice.cs",
+              "ToolTip": "C:\\Users\\2401317\\Dice\\Assets\\Scripts\\Dice.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Dice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T13:43:24.527Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
